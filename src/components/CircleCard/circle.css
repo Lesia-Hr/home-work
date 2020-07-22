@@ -1,0 +1,26 @@
+.circle {
+  height: 150px;
+  width: 150px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 15px;
+}
+.circle h3 {
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.circle p {
+  font-size: 19px;
+  margin-top: 0;
+  color: white;
+}
+.circle div {
+    margin-top: 10px; 
+    border-top: 1px solid white;
+    width: 80%;
+    margin: 15px;
+}
+
