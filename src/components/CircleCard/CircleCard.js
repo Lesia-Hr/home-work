@@ -10,7 +10,6 @@ function CircleCard ( props ) {
             <div>
                 <p>{description}</p>
             </div>
-            
         </div>
     )
 }
